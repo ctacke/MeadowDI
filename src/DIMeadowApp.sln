@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIMeadowApp", "DIMeadowApp.csproj", "{1D1C33E7-4AAF-4F9F-8C76-8939C4CD6233}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D96D10C-2748-427E-9398-19DC824F2F21}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D1C33E7-4AAF-4F9F-8C76-8939C4CD6233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1C33E7-4AAF-4F9F-8C76-8939C4CD6233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1C33E7-4AAF-4F9F-8C76-8939C4CD6233}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1D1C33E7-4AAF-4F9F-8C76-8939C4CD6233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1C33E7-4AAF-4F9F-8C76-8939C4CD6233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1C33E7-4AAF-4F9F-8C76-8939C4CD6233}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD0ABD79-7AD7-4C1E-8BFE-DB589C32792D}
+	EndGlobalSection
+EndGlobal
